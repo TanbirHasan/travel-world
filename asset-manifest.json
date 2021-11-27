@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/travel-guru/static/css/main.db6db09f.chunk.css",
+    "main.js": "/travel-guru/static/js/main.817ad2d8.chunk.js",
+    "main.js.map": "/travel-guru/static/js/main.817ad2d8.chunk.js.map",
+    "runtime-main.js": "/travel-guru/static/js/runtime-main.c6ea8c47.js",
+    "runtime-main.js.map": "/travel-guru/static/js/runtime-main.c6ea8c47.js.map",
+    "static/js/2.6e9a335a.chunk.js": "/travel-guru/static/js/2.6e9a335a.chunk.js",
+    "static/js/2.6e9a335a.chunk.js.map": "/travel-guru/static/js/2.6e9a335a.chunk.js.map",
+    "static/js/3.2ed7c8b2.chunk.js": "/travel-guru/static/js/3.2ed7c8b2.chunk.js",
+    "static/js/3.2ed7c8b2.chunk.js.map": "/travel-guru/static/js/3.2ed7c8b2.chunk.js.map",
+    "index.html": "/travel-guru/index.html",
+    "static/css/main.db6db09f.chunk.css.map": "/travel-guru/static/css/main.db6db09f.chunk.css.map",
+    "static/js/2.6e9a335a.chunk.js.LICENSE.txt": "/travel-guru/static/js/2.6e9a335a.chunk.js.LICENSE.txt",
+    "static/media/Logo.17f5ca72.png": "/travel-guru/static/media/Logo.17f5ca72.png",
+    "static/media/CoxBazar.css": "/travel-guru/static/media/Rectangle 1.aaab8179.png",
+    "static/media/Rectangle 26.4b5f425f.png": "/travel-guru/static/media/Rectangle 26.4b5f425f.png",
+    "static/media/Rectangle 27.f6fb5e0e.png": "/travel-guru/static/media/Rectangle 27.f6fb5e0e.png",
+    "static/media/Rectangle 28.0258445a.png": "/travel-guru/static/media/Rectangle 28.0258445a.png",
+    "static/media/Sajek.74fc052a.png": "/travel-guru/static/media/Sajek.74fc052a.png",
+    "static/media/Sundorbon.css": "/travel-guru/static/media/Shundorbon.7c205008.jpg",
+    "static/media/Sreemongol.aea2c690.png": "/travel-guru/static/media/Sreemongol.aea2c690.png",
+    "static/media/gmap.c4de5782.jpg": "/travel-guru/static/media/gmap.c4de5782.jpg",
+    "static/media/logo.6ce24c58.svg": "/travel-guru/static/media/logo.6ce24c58.svg",
+    "static/media/Srimongol.css": "/travel-guru/static/media/srimongol.05694658.jpg",
+    "static/media/sundorbon.7b51964c.png": "/travel-guru/static/media/sundorbon.7b51964c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6ea8c47.js",
+    "static/js/2.6e9a335a.chunk.js",
+    "static/css/main.db6db09f.chunk.css",
+    "static/js/main.817ad2d8.chunk.js"
+  ]
+}
