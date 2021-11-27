@@ -1,0 +1,55 @@
+.Srimongol {
+  padding-top: 320px;
+  padding-bottom: 100px;
+  text-align: left;
+  background-image: linear-gradient(
+      rgba(0, 0, 0, 0.281),
+      rgba(10, 10, 10, 0.45)
+    ),
+    url(../Img/srimongol.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.Srimongol .col-md-6:nth-of-type(2) label {
+  display: block;
+}
+
+.Srimongol .col-md-6 {
+  color: #fff;
+}
+.Srimongol .col-md-6 form {
+  color: black;
+  background-color: white;
+  border: 1px solid white;
+  padding: 35px;
+  width: 70%;
+  border-radius: 5px;
+}
+
+.Srimongol .col-md-6 h2 {
+  font-size: 64px;
+  font-weight: 600;
+}
+
+.Srimongol .col-md-6 input {
+  margin-bottom: 10px;
+  width: 100%;
+}
+.Srimongol .col-md-6 form button {
+  background-color: orange;
+  border-color: orange;
+  color: black;
+}
+
+@media (max-width: 575.98px) {
+  .Srimongol .col-md-6 form {
+    color: black;
+    background-color: white;
+    border: 1px solid white;
+    padding: 35px;
+    width: 95%;
+    border-radius: 5px;
+  }
+}

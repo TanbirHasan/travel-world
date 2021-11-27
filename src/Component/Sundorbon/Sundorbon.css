@@ -1,0 +1,55 @@
+.Sundorbon {
+  padding-top: 320px;
+  padding-bottom: 100px;
+  text-align: left;
+  background-image: linear-gradient(
+      rgba(0, 0, 0, 0.281),
+      rgba(10, 10, 10, 0.45)
+    ),
+    url(../Img/Shundorbon.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.Sundorbon .col-md-6:nth-of-type(2) label {
+  display: block;
+}
+
+.Sundorbon .col-md-6 {
+  color: #fff;
+}
+.Sundorbon .col-md-6 form {
+  color: black;
+  background-color: white;
+  border: 1px solid white;
+  padding: 35px;
+  width: 70%;
+  border-radius: 5px;
+}
+
+.Sundorbon .col-md-6 h2 {
+  font-size: 64px;
+  font-weight: 600;
+}
+
+.Sundorbon .col-md-6 input {
+  margin-bottom: 10px;
+  width: 100%;
+}
+.Sundorbon .col-md-6 form button {
+  background-color: orange;
+  border-color: orange;
+  color: black;
+}
+
+@media (max-width: 575.98px) {
+  .Sundorbon .col-md-6 form {
+    color: black;
+    background-color: white;
+    border: 1px solid white;
+    padding: 35px;
+    width: 95%;
+    border-radius: 5px;
+  }
+}

@@ -1,0 +1,76 @@
+/* @media (max-width: 575.98px) {
+  .MainSection .col-md-4 {
+    padding: 20px;
+  }
+  .MainSection .col-md-8 .col-md-4 h3 {
+    position: absolute;
+    top: 75%;
+    left: 31%;
+  }
+  .MainSection {
+    padding-top: 182px;
+    padding-bottom: 65px;
+  }
+  .Cox {
+    padding-top: 180px;
+    padding-bottom: 100px;
+    text-align: left;
+    background-image: linear-gradient(
+        rgba(0, 0, 0, 0.281),
+        rgba(10, 10, 10, 0.45)
+      ),
+      url(./Component/Img/Rectangle\ 1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+  .Cox .col-md-6 form {
+    color: black;
+    background-color: white;
+    border: 1px solid white;
+    padding: 35px;
+    width: 100%;
+    border-radius: 5px;
+  }
+  .Sundorbon {
+    padding-top: 220px;
+    padding-bottom: 50px;
+    text-align: left;
+    background-image: linear-gradient(
+        rgba(0, 0, 0, 0.281),
+        rgba(10, 10, 10, 0.45)
+      ),
+      url(../src/Component/Img/Shundorbon.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+  .Sundorbon .col-md-6 form {
+    color: black;
+    background-color: white;
+    border: 1px solid white;
+    padding: 35px;
+    width: 95%;
+    border-radius: 5px;
+  }
+  .Srimongol .col-md-6 form {
+    color: black;
+    background-color: white;
+    border: 1px solid white;
+    padding: 35px;
+    width: 95%;
+    border-radius: 5px;
+  }
+}
+
+@media (max-width: 767.98px) {
+}
+
+@media (max-width: 991.98px) {
+}
+
+@media (max-width: 1199.98px) {
+}
+
+@media (max-width: 1399.98px) {
+} */

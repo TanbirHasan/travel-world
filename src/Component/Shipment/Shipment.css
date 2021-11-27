@@ -1,0 +1,18 @@
+.Shipment {
+  padding-top: 320px;
+  padding-bottom: 320px;
+}
+
+.Shipment .button {
+  text-align: center;
+}
+.Shipment button {
+  padding: 8px 18px;
+  margin: 10px;
+  border-radius: 50px;
+  background-color: transparent;
+  border: 1px solid white;
+  color: white;
+  font-size: 20px;
+  font-weight: 500;
+}

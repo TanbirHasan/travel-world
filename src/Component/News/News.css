@@ -1,0 +1,9 @@
+.News {
+  padding-top: 100px;
+}
+
+@media (max-width: 575.98px) {
+  .News {
+    padding-top: 400px;
+  }
+}

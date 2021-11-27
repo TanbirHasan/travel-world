@@ -1,0 +1,60 @@
+.Header nav {
+  padding: 30px;
+  position: absolute;
+}
+
+.bg-light {
+  --bs-bg-opacity: 1;
+  background-color: transparent !important;
+}
+
+.image {
+  margin-right: 20px;
+  margin-bottom: 5px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #fff;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+  color: #fff;
+}
+.navbar-nav {
+  display: flex;
+  flex-direction: column;
+  padding-left: 0;
+  margin-bottom: 0;
+  margin-left: 120%;
+  list-style: none;
+}
+.bg-light .image {
+  color: #fff;
+}
+
+.Header button {
+  background-color: orange;
+  padding: 6px 14px;
+  border-radius: 5px;
+  border: none;
+  border-radius: 50px;
+  color: white;
+}
+
+.Header .d-flex input {
+  border-radius: 30px;
+  margin-bottom: 5px;
+}
+
+@media (max-width: 575.98px) {
+  .navbar-nav {
+    display: flex;
+    flex-direction: column;
+    padding-left: 0;
+    margin-bottom: 0;
+    margin-left: 4%;
+    list-style: none;
+  }
+}

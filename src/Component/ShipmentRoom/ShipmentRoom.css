@@ -1,0 +1,28 @@
+.ShipmentRoom .row:nth-of-type(1) {
+}
+
+.ShipmentRoom .inner-item {
+  border-top: 1px solid white;
+  margin: 50px;
+  color: black;
+  padding: 50px;
+  background-color: white;
+}
+
+.col-md-6 {
+  margin-bottom: 15px;
+}
+
+.col-md-6 h4 > a {
+  text-decoration: none;
+}
+.row {
+  --bs-gutter-x: 1.5rem;
+  --bs-gutter-y: 0;
+  display: flex;
+
+  flex-wrap: wrap;
+  margin-top: calc(-1 * var(--bs-gutter-y));
+  margin-right: calc(-0.5 * var(--bs-gutter-x));
+  margin-left: calc(-0.5 * var(--bs-gutter-x));
+}
